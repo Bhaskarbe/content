@@ -1,0 +1,50 @@
+[{
+		"title": "PanchaBhuta",
+		"date": "Nov 12",
+		"description": "The fundamental elements and its natures to world Entity like Jiva has been explained",
+		"image": "https://source.unsplash.com/random",
+		"imageText": "Image Text",
+		"url":"/Bhaskarbe/content/master/panchabhuta.md"
+	},
+	{
+		"title": "ShankarOnMaya",
+		"date": "Nov 11",
+		"description": "Adi ShankaraCharya views on Maya with reference of Nagarjuna Also ",
+		"image": "https://source.unsplash.com/random",
+		"imageText": "Image Text",
+		"url": "/Bhaskarbe/content/master/shankarOnmaya.md"
+	},
+	{
+		"title": "RamanujaOnMaya",
+		"date": "Nov 11",
+		"description": "Ramanujacharya view against the theory of maya he shows the seven points to say that maya doesn't exists",
+		"image": "https://source.unsplash.com/random",
+		"imageText": "Image Text",
+		"url": "/Bhaskarbe/content/master/ramanujaSaptavida.md"
+	},
+	{
+		"title": "NagarjunaShunyaVada",
+		"date": "Nov 11",
+		"description": "Nagarjuna is Bhuddist philosopher he's from madhamika shunyavada school he holds the position that everything is void 'ChatusKoti VinarMukta Aatma'",
+		"image": "https://source.unsplash.com/random",
+		"imageText": "Image Text",
+		"url": "/Bhaskarbe/content/master/shunyavadaByNagarjuna.md"
+	},
+	{
+		"title": "Chandrakirti",
+		"date": "Nov 11",
+		"description": "Chandrakirti was Bhuddist philosopher who explains the view on madhamika shunya vada",
+		"image": "https://source.unsplash.com/random",
+		"imageText": "Image Text",
+		"url": "/Bhaskarbe/content/master/chandraKirti.md"
+	},
+	{
+		"title": "VasuBhandu",
+		"date": "Nov 11",
+		"description": "VasuBhandu is known for Yogacara school of Buddhist thought who explains the view alayavijnana",
+		"image": "https://source.unsplash.com/random",
+		"imageText": "Image Text",
+		"url": "/Bhaskarbe/content/master/vasubhandu.md"
+	}
+
+]
